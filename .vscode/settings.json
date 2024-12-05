@@ -1,5 +1,9 @@
 {
     "files.exclude": {
         "**/desafio-SOLID": true
-    }
+    },
+    "cSpell.words": [
+        "aprovar",
+        "verifica"
+    ]
 }
